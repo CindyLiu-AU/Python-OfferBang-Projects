@@ -1,0 +1,28 @@
+1. Markdown use LaTex?
+2. True & False // the output is False
+
+
+课程介绍
+
+1. 【Python选修】Jupyter Notebook and Python Basic 视频 1 小时
+
+    done    1. Code Block _ Markdown
+         10 分钟
+
+    done    2. Type Function _ String
+         10 分钟
+
+    done    3. Variable
+         9 分钟
+
+    done    4. Numbers _ Names
+         13 分钟
+
+    done    5. Operators
+         11 分钟
+
+    done    6. Evaluate the Expression _ Converter Function
+         12 分钟
+
+    done    7. Practice
+         7 分钟
